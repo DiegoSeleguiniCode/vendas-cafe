@@ -43,13 +43,13 @@ O objetivo principal é analisar os dados armazenados em um arquivo CSV com regi
 ## 🖼️ Exemplos de Visualização
 
 ### 📊 Vendas por Café
-![Gráfico de Barras Café](https://i.ibb.co/ynF01LBC/vendas-cafe.jpg))  
+![Gráfico de Barras Café](https://i.ibb.co/ynF01LBC/vendas-cafe.jpg)  
 *Exemplo ilustrativo de como fica o gráfico das vendas totais por café.*
 
 ### 📅 Dia com mais Vendas
 📍 **Data com mais vendas:** `11/10/2024`  
 ☕ **Produto mais vendido nesse dia:** detalhado em gráfico abaixo.
-![Gráfico de Barras Dia Mais Vendas](https://i.ibb.co/0pwzsd5g/vendas-cafe2.jpg))  
+![Gráfico de Barras Dia Mais Vendas](https://i.ibb.co/0pwzsd5g/vendas-cafe2.jpg)  
 *Exemplo ilustrativo de como fica o gráfico das vendas totais por café no dia de maior venda*
 
 ---
